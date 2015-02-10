@@ -1,2 +1,6 @@
 kobashi yuuki
+<<<<<<< HEAD
 HAGE
+=======
+Sugino is bald.
+>>>>>>> 27ffcb440a9196ccb9cc55d5e20aa426d0ed71ba
